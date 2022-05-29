@@ -1,0 +1,53 @@
+{
+  "free_lessons": [],
+  "timetable": [
+    {
+      "date": "06.01.2022",
+      "time": "11:00",
+      "teacher": "Becky Richards",
+      "note": "It will be lesson for beginners and people who only starts himself career in hip-hop",
+      "count": 0,
+      "max_count": 20
+    },
+    {
+      "date": "06.01.2022",
+      "time": "12:40",
+      "teacher": "Billy Mitchell",
+      "note": "It will be lesson of waltz, so you can come with your partner",
+      "count": 0,
+      "max_count": 20
+    },
+    {
+      "date": "06.01.2022",
+      "time": "13:20",
+      "teacher": "Miriam Gregory",
+      "note": "It will be lesson of break dance. It will be drive and fun, so we are waiting for you",
+      "count": 0,
+      "max_count": 20
+    },
+    {
+      "date": "07.01.2022",
+      "time": "11:00",
+      "teacher": "Becky Richards",
+      "note": "It will be lesson for beginners and people who only starts himself career in hip-hop",
+      "count": 0,
+      "max_count": 20
+    },
+    {
+      "date": "07.01.2022",
+      "time": "12:40",
+      "teacher": "Billy Mitchell",
+      "note": "It will be lesson of waltz, so you can come with your partner",
+      "count": 0,
+      "max_count": 20
+    },
+    {
+      "date": "07.01.2022",
+      "time": "13:20",
+      "teacher": "Miriam Gregory",
+      "note": "It will be lesson of break dance. It will be drive and fun, so we are waiting for you",
+      "count": 0,
+      "max_count": 20
+    }
+  ]
+}

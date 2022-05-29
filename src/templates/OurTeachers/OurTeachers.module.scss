@@ -1,0 +1,38 @@
+.ourTeachers {
+  padding: 125px 85px 95px 85px;
+  background: #141414;
+  .title {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 3.375em;
+    color: white;
+    margin-bottom: 60px;
+  }
+
+  .teachers {
+
+    .teacher {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      .teacherIMG {
+        width: 410px;
+        height: 410px;
+        border-radius: 50%;
+      }
+
+      .teacherText {
+        font-family: "Open Sans", sans-serif;
+        font-size: 2em;
+        color: white;
+        text-align: center;
+        width: 620px;
+      }
+    }
+  }
+}
+
+
+
+

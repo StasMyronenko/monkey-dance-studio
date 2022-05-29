@@ -1,0 +1,6 @@
+- Button on header doesn't work
+- form in timetable lessonCard doesn't work
+- Gallery
+- Footer
+- Footer menu
+- Menu

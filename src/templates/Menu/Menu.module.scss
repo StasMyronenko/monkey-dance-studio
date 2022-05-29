@@ -1,0 +1,41 @@
+$width: 1366px;
+
+.menu{
+  display: flex;
+  align-items: center;
+  width: $width;
+  height: 90px;
+  background: rgba(0,0,0,0);
+  position: fixed;
+  top: 0;
+  padding-left: 85px;
+  padding-right: 85px;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+.logo{
+  >.logoText {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 3.5625em;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2px #CF8D48;
+  }
+}
+
+.navigation{
+  width: 50%;
+
+  >.menuList{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+
+    >.menuElement>.menuElementText {
+      font-family: 'Open Sans', sans-serif;
+      text-decoration: none;
+      color: #CF8D48;
+      font-size: 1.625em;
+    }
+  }
+}
